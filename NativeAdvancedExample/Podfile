@@ -1,0 +1,6 @@
+
+platform :ios, '9.0'
+
+target 'NativeAdvancedExample' do
+  pod 'Google-Mobile-Ads-SDK'
+end
